@@ -1,0 +1,63 @@
+body {
+    font-family: Lato, "Open Sans", sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background-color: #000;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.wholist {
+    text-align:center;
+    margin-bottom: 200px; /* ugly fucking hack, dipshit */
+    font-size: 18px;
+}
+
+.factlist li {
+    padding-bottom: 6px;
+}
+
+footer {
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0 10px;
+    font-variant: small-caps;
+    font-size: 20px;
+}
+
+.contact-form {
+    text-align: left;
+}
+
+input, textarea {
+    color: black;
+}
+
+.wide {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
